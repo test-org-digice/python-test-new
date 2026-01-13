@@ -64,7 +64,7 @@ PyJWT==1.7.1           # CVE-2022-29217 (Key confusion) - HIGH 7.5
 pymongo==3.11.0        # CVE-2021-32837 (Injection) - HIGH 8.1
 jsonpickle==1.4.1      # CVE-2020-22083 (Unsafe deserialization) - CRITICAL 9.8
 pycryptodome==3.9.0    # CVE-2022-48422 (Side-channel attack) - MEDIUM 5.9
-python-memcached==1.59 # CVE-2020-8840 (Injection) - HIGH 8.1
+# python-memcached==1.59 # CVE-2020-8840 (Injection) - HIGH 8.1
 
 # LOW Severity CVEs
 urllib3==1.26.4        # CVE-2021-33503 (Catastrophic backtracking) - LOW 5.9
